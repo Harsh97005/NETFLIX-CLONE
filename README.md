@@ -29,7 +29,13 @@ It allows users to browse movies, view trailers, and authenticate using Firebase
 
 ## 📸 Screenshots
 
-> Add your project screenshots here
+> <img width="1908" height="977" alt="image" src="https://github.com/user-attachments/assets/2f986c68-4290-4d32-ae9a-90b81293ba5e" />
+>
+> <img width="1916" height="957" alt="image" src="https://github.com/user-attachments/assets/298384c2-314f-4415-a894-1cb03a10ed0b" />
+
+<img width="1897" height="972" alt="image" src="https://github.com/user-attachments/assets/34bb2e48-dbc0-47d7-847d-ce83a3f8102e" />
+
+
 
 ---
 
